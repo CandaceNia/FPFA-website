@@ -5,4 +5,31 @@ color: #607bacc5;
 #events-heading{
     font-size: 80px;
     text-align: center;
+    box-shadow: 12px 12px 2px 1px;
+    padding-bottom: 15px;
+}
+
+#events-p{
+    color: black;
+}
+
+#about-p{
+    color: black;
+    padding: 250px;
+}
+
+#about-heading{
+    font-size: 80px;
+    text-align: center;
+    box-shadow: 12px 12px 2px 1px;
+    padding-bottom: 15px;
+
+}
+#home-heading{
+    font-size: 80px;
+    text-align: center;
+    font-family: Apple Chancery, cursive;
+    box-shadow: 12px 12px 2px 1px;
+    padding-right: 15px;
+
 }

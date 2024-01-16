@@ -1,9 +1,10 @@
 #nav-button{
     padding: 10px;
-    background-color: #FCF6FC;
+    background-color: transparent;
    font-size: 20px;
-   background-color: rgba(247, 239, 239, 0.986);
+   background-color:transparent;
    border: none;
+   color:aliceblue;
 }
 
 #nav-bar{
