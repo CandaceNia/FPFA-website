@@ -1,0 +1,15 @@
+#nav-button{
+    padding: 10px;
+    background-color: #FCF6FC;
+   font-size: 20px;
+   background-color: rgba(247, 239, 239, 0.986);
+   border: none;
+}
+
+#nav-bar{
+    display: flex ;
+    justify-content: space-between;
+    padding: 15px 45px;
+    align-items: center;
+    background-color: #607bacc5;
+}
