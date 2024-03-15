@@ -33,3 +33,25 @@ color: #607bacc5;
     padding-right: 15px;
 
 }
+#event-img{
+    padding: 15px;
+    width: 350px;
+    height: 295px;
+}
+#about-photo{
+    height: 300px;
+    width: 300px;
+    padding-left: 300px;
+  }
+  #about-h3{
+    padding-left: 300px;
+  }
+  #home-img{
+    height: 300px;
+    padding-left: 55px;
+    padding-top: 50px;
+     
+  }
+#contact-p{
+    font-size: 30px;
+}
